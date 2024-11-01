@@ -6,7 +6,7 @@ A fast and efficient **Vehicle Allocation System** built using **FastAPI** and *
 ![Banner](./docs-docusaurus/static/img/vallocation_banner.png)
 
 > [!NOTE]
-> Please check the [official website](https://fahimfba.github.io/vallocation/) for the complete instructions along with some popular resources!
+> Please check the [official website] for the complete instructions along with some popular resources!
 
 ## Table of Contents
 - [Overview](#overview)
@@ -61,8 +61,8 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/FahimFBA/vallocation
-cd vallocation
+git clone https://github.com/charmhorse/Vehicle-Allocation-Management.git
+cd Vehicle-Allocation-Management
 ```
 
 ### 2. Create a virtual environment
@@ -262,8 +262,8 @@ Each allocation is stored in MongoDB in the following format:
 
 ## Contributors
 
-- **Fahim** - Developer, Architect
-- **[Contributors](https://github.com/FahimFBA/vallocation/contributors)**
+- **charmhorse** - Developer, Architect
+- **[Contributors](https://github.com/charmhorse/Vehicle-Allocation-Management/contributors)**
 
-Feel free to open [issues](https://github.com/FahimFBA/vallocation/issues) or submit [pull requests](https://github.com/FahimFBA/vallocation/pulls) to help improve this project!
+Feel free to open [issues](https://github.com/charmhorse/Vehicle-Allocation-Management/issues) or submit [pull requests](https://github.com/charmhorse/Vehicle-Allocation-Management/pulls) to help improve this project!
 
